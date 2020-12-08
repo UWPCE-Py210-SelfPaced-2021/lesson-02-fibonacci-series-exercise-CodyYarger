@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "verify output",
+      "setup": "",
+      "run": "python3 auto_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
